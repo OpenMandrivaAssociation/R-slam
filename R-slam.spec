@@ -41,3 +41,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Sat Feb 18 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1_23-1
++ Revision: 776947
+- Import R-slam
+- Import R-slam
+
