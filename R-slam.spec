@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.1.28
-Release:          1
+Release:          2
 Summary:          Sparse Lightweight Arrays and Matrices
 Group:            Sciences/Mathematics
 License:          GPL-2
